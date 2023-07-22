@@ -1,0 +1,46 @@
+div{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+.nameTitle{
+
+    font-size: 30px;
+    font-weight: 700;
+
+}
+
+.menu{
+    background-color: black;
+}
+
+.menu .profil{
+    color: white;
+    font-size: 30px;
+    font-family: 'Russo One', sans-serif;
+
+}
+
+.name{
+    font-size: 30px;
+}
+.age{
+    font-size: 30px;
+}
+.salary{
+    font-size: 30px;
+}
+
+/* table{
+    border: 1px solid black;
+} */
+
+th{
+    border: 1px solid black;
+}
+
+.forma{
+    display: none;
+}
